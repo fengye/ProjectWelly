@@ -1,0 +1,10 @@
+retile_aerial
+retile_dsm
+*.zip
+*.tar.gz
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.r16
+lds-wellington*
