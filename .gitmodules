@@ -1,0 +1,3 @@
+[submodule "geotiff2raw16"]
+	path = geotiff2raw16
+	url = https://github.com/fengye/geotiff2raw16.git
